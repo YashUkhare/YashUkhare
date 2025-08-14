@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Ukhare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Spring boot Applications**
+- 🔭 I currently work on **Spring boot and Angular Applications**
 
 - 📫 How to reach me **ukhareyash2001@gmail.com**
 
